@@ -1,0 +1,14 @@
+*{
+    background-color: lightblue;
+}
+div{
+    text-align: center;
+    color: brown;
+}
+input{
+    background-color: antiquewhite;
+}
+span{
+    color:darkred;
+    font-weight: bold;
+}
